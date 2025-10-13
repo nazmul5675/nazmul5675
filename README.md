@@ -26,14 +26,24 @@
 
 ## 🚀 Featured Projects
 
-### 🧳 [Travel Agency Web App](https://github.com/nazmul5675/travel-agency-web)
-A responsive web app for managing travel bookings, destinations, and packages.
+## 🚀 Featured Projects
 
-### 💅 [Proyash WordPress Plugin](https://github.com/nazmul5675/proyash-plugin)
-A custom plugin built for my skincare brand **Proyash**, enhancing online engagement.
+### 🧳 [Customer Support Ticket System](https://github.com/nazmul5675/Customer-Support-Ticket-System-00000)
+A responsive web application for managing **customer inquiries and support tickets** efficiently.  
 
-### 🧠 [Machine Learning Project – CNN](https://github.com/nazmul5675/cnn-project)
-A deep learning model built using Python for image classification.
+---
+
+### 💅 [Hero Apps Store](https://github.com/nazmul5675/Hero-Apps-Store-2025)
+A modern and responsive **App Store web app** where users can explore and download different types of apps.  
+🔹 Built with: HTML, CSS, JavaScript
+🔹 Features: Dynamic app listing, search filter, and smooth UI animations.
+
+---
+
+### 🧠 [PayooApp](https://github.com/nazmul5675/PayooApp-0001)
+A digital payment application that simplifies **software payments and transactions** securely.  
+
+
 
 ---
 
