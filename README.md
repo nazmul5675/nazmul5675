@@ -24,28 +24,7 @@
 
 ---
 
-## 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
-### 🧳 [Customer Support Ticket System](https://github.com/nazmul5675/Customer-Support-Ticket-System-00000)
-A responsive web application for managing **customer inquiries and support tickets** efficiently.  
-
----
-
-### 💅 [Hero Apps Store](https://github.com/nazmul5675/Hero-Apps-Store-2025)
-A modern and responsive **App Store web app** where users can explore and download different types of apps.  
-🔹 Built with: HTML, CSS, JavaScript
-🔹 Features: Dynamic app listing, search filter, and smooth UI animations.
-
----
-
-### 🧠 [PayooApp](https://github.com/nazmul5675/PayooApp-0001)
-A digital payment application that simplifies **software payments and transactions** securely.  
-
-
-
----
 
 ## 📈 GitHub Stats
 ![Nazmul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nazmul5675&show_icons=true&theme=tokyonight)
