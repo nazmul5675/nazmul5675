@@ -55,18 +55,21 @@ I love building **full stack web applications**, solving problems, and exploring
 |------|------|------|
 | **eTuition BD** | React, Firebase, Node | A tutor finding platform where students can find tutors easily. |
 | **Parcel Delivery System** | MERN | Role based courier management system with tracking features. |
-| **Travel Agency Website** | React | Full stack travel booking and management system. |
+| **Freelance Marketplace** | React | A full-stack Freelance Marketplace platform where users can post jobs/tasks and others can accept them.|
 
 ---
 
 # 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nazmul5675&show_icons=true&theme=tokyonight&hide_border=true" alt="Nazmul's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul5675&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nazmul5675&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul5675&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazmul5675&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
