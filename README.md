@@ -70,7 +70,7 @@ I love building **full stack web applications**, solving problems, and exploring
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazmul5675/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hridoyn61@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=ff8000)](https://nazmulhasan.surge.sh/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=ff8000)](https://nazmulhasanhridoy.surge.sh/)
 ---
 
 ⭐ **If you like my work, consider giving a star to my repositories!**
