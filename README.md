@@ -74,3 +74,4 @@ I love building **full stack web applications**, solving problems, and exploring
 ---
 
 ⭐ **If you like my work, consider giving a star to my repositories!**
+![](https://komarev.com/ghpvc/?username=nazmul5675)
